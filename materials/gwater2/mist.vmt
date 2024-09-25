@@ -1,6 +1,0 @@
-UnlitGeneric {
-	$basetexture gwater2/splash
-	$additive 1
-	$translucent 1
-	$alpha 0.25
-}

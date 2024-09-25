@@ -1,5 +1,0 @@
-UnlitGeneric {
-	$ignorez 1
-	$color2 "[0 0 0 0]"
-	$basetexture "lights/white"
-}
