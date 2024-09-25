@@ -1,2 +1,2 @@
-# Gwater2 [![made with - mee++](https://img.shields.io/badge/made_with-mee%2B%2B-2ea44f)](https://)
+# Gwater2 ![Static Badge](https://img.shields.io/badge/build-fucking%20sucks-brightgreen?label=this%20code)
 # now with better physics
